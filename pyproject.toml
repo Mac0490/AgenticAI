@@ -1,0 +1,13 @@
+[project]
+name = "agenticai-langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "ipython<9",
+    "langgraph>=1.0.10",
+    "notebook>=7.5.4",
+    "python-dotenv>=1.2.1",
+]
